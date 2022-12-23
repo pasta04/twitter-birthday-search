@@ -1,0 +1,9 @@
+{
+  "authorization": "Bearer xxx",
+  "cookie": "kdt=xxx",
+  "csrftoken": "ae28700xxx",
+  "since": "since:2023-03-15_00:00:00_JST",
+  "until": "until:2023-03-20_23:59:59_JST",
+  "filter": "filter:images -filter:quote",
+  "namelist": ["星宮いちご"]
+}
