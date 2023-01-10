@@ -26,7 +26,7 @@ const base = 'https://twitter.com/i/api/2/search/adaptive.json';
 const searchWordList = (() => {
   const list: string[] = [];
   namelist.map((name) => {
-    list.push(...[`#${name}`, `#${name}生誕祭`, `#${name}生誕祭2022`, `#${name}誕生祭`, `#${name}誕生祭2022`]);
+    list.push(...[`#${name}`, `#${name}生誕祭`, `#${name}生誕祭2023`, `#${name}誕生祭`, `#${name}誕生祭2023`]);
   });
   return list;
 })();
